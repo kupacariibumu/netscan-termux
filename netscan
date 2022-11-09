@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python ~/netscan-termux/netscan-termux.py
